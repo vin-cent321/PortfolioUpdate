@@ -1,0 +1,30 @@
+body {
+    background-image: url("../images/carbon_fibre.png");
+    font-family: 'Cinzel', serif;
+}
+
+#top {
+    padding-top: 250px;
+    color: #a3eafeb1;
+    font-size: 26px;
+    letter-spacing: 5px;
+    text-align: center;
+    text-shadow: 2px 2px #000000;
+}
+
+#hello {
+    animation-delay: 1s;
+}
+
+#name {
+    animation-delay: 2s;
+}
+
+#full {
+    animation-delay: 3s;
+}
+
+#view {
+    margin-top: 10px;
+    animation-delay: 4s;
+}
